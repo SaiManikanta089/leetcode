@@ -14,6 +14,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaiManikanta089/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SaiManikanta089/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -50,9 +51,11 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
