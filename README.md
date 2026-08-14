@@ -15,6 +15,7 @@
 | [0058-length-of-last-word](https://github.com/SaiManikanta089/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SaiManikanta089/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
