@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/SaiManikanta089/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaiManikanta089/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
