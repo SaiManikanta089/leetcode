@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiManikanta089/leetcode/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/SaiManikanta089/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/SaiManikanta089/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
