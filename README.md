@@ -91,4 +91,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SaiManikanta089/leetcode/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
