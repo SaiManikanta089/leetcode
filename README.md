@@ -78,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiManikanta089/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
