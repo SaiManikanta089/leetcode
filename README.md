@@ -81,6 +81,7 @@
 | [0013-roman-to-integer](https://github.com/SaiManikanta089/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -119,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaiManikanta089/leetcode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
