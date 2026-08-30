@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/SaiManikanta089/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SaiManikanta089/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta089/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/SaiManikanta089/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -69,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/SaiManikanta089/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SaiManikanta089/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta089/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -84,6 +86,7 @@
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaiManikanta089/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
