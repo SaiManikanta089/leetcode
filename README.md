@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiManikanta089/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/SaiManikanta089/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SaiManikanta089/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
