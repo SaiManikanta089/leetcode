@@ -26,6 +26,7 @@
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/SaiManikanta089/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SaiManikanta089/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0234-palindrome-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SaiManikanta089/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -103,6 +106,7 @@
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
