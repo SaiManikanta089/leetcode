@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiManikanta089/leetcode/tree/master/0014-longest-common-prefix) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
+| [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SaiManikanta089/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -86,6 +87,7 @@
 | [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@
 | [0234-palindrome-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
