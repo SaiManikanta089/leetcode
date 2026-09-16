@@ -6,9 +6,10 @@
  * };
  */
 struct ListNode* reverseBetween(struct ListNode* head, int left, int right) {
-    struct ListNode dummy,*prev;
-    dummy.next=head;
-    prev=&dummy;
+    struct ListNode *dummy,*prev;
+    dummy=(struct ListNode*)malloc(sizeof(struct ListNode));
+    dummy->next=head;
+    prev=dummy;
     int c=1;
     while(c<left&& prev->next!=NULL)
     {
@@ -27,6 +28,6 @@ struct ListNode* reverseBetween(struct ListNode* head, int left, int right) {
         prev->next=temp;
         c++;
     }
-    return dummy.next;
+    return dummy->next;
 
 }
