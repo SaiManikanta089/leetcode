@@ -117,6 +117,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SaiManikanta089/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaiManikanta089/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/SaiManikanta089/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -184,4 +185,9 @@
 | [0225-implement-stack-using-queues](https://github.com/SaiManikanta089/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaiManikanta089/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/SaiManikanta089/leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/SaiManikanta089/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SaiManikanta089/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
