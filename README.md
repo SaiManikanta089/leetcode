@@ -27,6 +27,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
+| [0649-dota2-senate](https://github.com/SaiManikanta089/leetcode/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/SaiManikanta089/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiManikanta089/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -120,6 +121,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SaiManikanta089/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaiManikanta089/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/SaiManikanta089/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/SaiManikanta089/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SaiManikanta089/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/SaiManikanta089/leetcode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/SaiManikanta089/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
