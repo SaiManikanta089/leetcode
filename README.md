@@ -33,6 +33,7 @@
 | [0796-rotate-string](https://github.com/SaiManikanta089/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiManikanta089/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0844-backspace-string-compare](https://github.com/SaiManikanta089/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiManikanta089/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SaiManikanta089/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SaiManikanta089/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SaiManikanta089/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SaiManikanta089/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
