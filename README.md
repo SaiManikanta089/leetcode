@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiManikanta089/leetcode/tree/master/0014-longest-common-prefix) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/SaiManikanta089/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/SaiManikanta089/leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
