@@ -111,6 +111,7 @@
 | [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/SaiManikanta089/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SaiManikanta089/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiManikanta089/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/SaiManikanta089/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/SaiManikanta089/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SaiManikanta089/leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
