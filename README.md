@@ -14,6 +14,7 @@
 | [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiManikanta089/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/SaiManikanta089/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SaiManikanta089/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SaiManikanta089/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -101,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
+| [1512-number-of-good-pairs](https://github.com/SaiManikanta089/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiManikanta089/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@
 | [0367-valid-perfect-square](https://github.com/SaiManikanta089/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SaiManikanta089/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaiManikanta089/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/SaiManikanta089/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SaiManikanta089/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/SaiManikanta089/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
