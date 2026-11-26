@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/SaiManikanta089/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaiManikanta089/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiManikanta089/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/SaiManikanta089/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SaiManikanta089/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiManikanta089/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
@@ -185,6 +186,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SaiManikanta089/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SaiManikanta089/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/SaiManikanta089/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/SaiManikanta089/leetcode/tree/master/0649-dota2-senate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SaiManikanta089/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
