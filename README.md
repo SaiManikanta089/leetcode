@@ -32,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/SaiManikanta089/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SaiManikanta089/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SaiManikanta089/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/SaiManikanta089/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaiManikanta089/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +101,7 @@
 | [0141-linked-list-cycle](https://github.com/SaiManikanta089/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiManikanta089/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SaiManikanta089/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SaiManikanta089/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SaiManikanta089/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiManikanta089/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
