@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/SaiManikanta089/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SaiManikanta089/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiManikanta089/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/SaiManikanta089/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/SaiManikanta089/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiManikanta089/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/SaiManikanta089/leetcode/tree/master/0817-linked-list-components) |
@@ -156,6 +157,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SaiManikanta089/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiManikanta089/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
